@@ -3,7 +3,7 @@ import "./App.css";
 
 function App() {
   // Set this to the coming midnight
-  const UNLOCK_TIME = new Date("2026-06-26T17:35:00");
+  const UNLOCK_TIME = new Date("2026-06-27T00:00:00");
 
   const base = import.meta.env.BASE_URL;
 

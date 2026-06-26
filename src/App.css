@@ -108,6 +108,7 @@ body {
   width: 165px;
   height: 165px;
   border: none;
+  justify-content: center;
   border-radius: 30px;
   font-size: 5.4rem;
   background: linear-gradient(145deg, #f3c6da, #d7a5be);
